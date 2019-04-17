@@ -1,0 +1,7 @@
+C:\Users\mert2\source\repos\EncryptionTest\EncryptionTest\bin\Debug\EncryptionTest.exe.config
+C:\Users\mert2\source\repos\EncryptionTest\EncryptionTest\bin\Debug\EncryptionTest.exe
+C:\Users\mert2\source\repos\EncryptionTest\EncryptionTest\bin\Debug\EncryptionTest.pdb
+C:\Users\mert2\source\repos\EncryptionTest\EncryptionTest\obj\Debug\EncryptionTest.csprojAssemblyReference.cache
+C:\Users\mert2\source\repos\EncryptionTest\EncryptionTest\obj\Debug\EncryptionTest.csproj.CoreCompileInputs.cache
+C:\Users\mert2\source\repos\EncryptionTest\EncryptionTest\obj\Debug\EncryptionTest.exe
+C:\Users\mert2\source\repos\EncryptionTest\EncryptionTest\obj\Debug\EncryptionTest.pdb
